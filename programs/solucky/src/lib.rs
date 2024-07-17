@@ -15,7 +15,7 @@ use error::*;
 use utils::*;
 
 
-declare_id!("7M3YFCgtxcmTuvUWasbyWdJN4MRJ7FAWTCzVt1ua2CH4");
+declare_id!("eknj1WcsqYyVuyGRFpH93M1iVPHGH9joeockkvBpVEY");
 
 #[program]
 pub mod solucky {
